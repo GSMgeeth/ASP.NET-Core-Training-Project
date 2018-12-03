@@ -35,6 +35,7 @@ namespace WebApplication1.Pages.Movies
             {
                 return NotFound();
             }
+
             return Page();
         }
 
